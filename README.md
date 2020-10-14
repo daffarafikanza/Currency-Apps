@@ -10,7 +10,7 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai pertukaran mata uang da
 
 ## How Does it Works?
 
-Diawali dari method `MainWindow` pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
+Diawali dari method `MainWindow` pada class `MainWindow.xaml.cs`, kita mendeklarasikan menjadi......
 
 ```csharp
 public MainWindow()
