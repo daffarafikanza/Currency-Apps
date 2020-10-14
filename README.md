@@ -1,6 +1,6 @@
 # Currency-Apps
 
-Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar ke rupiah. Jadi 1$ = Rp. 15.000
+Aplikasi sederhana ini mencakup fungsi perhitungan nilai pertukaran mata uang dari dollar ke rupiah. Jadi 1$ = Rp. 15.000
 
 ## Scope & Functionalities
 
