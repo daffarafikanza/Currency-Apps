@@ -12,7 +12,7 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar k
 
 Diawali dari method 'MainWindow' pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
 
-```c#
+```csharp
 public MainWindow()
         {
             InitializeComponent();
@@ -22,7 +22,7 @@ public MainWindow()
 
 logika perhitungan terdapat pada class 'CurrencyController.cs' sebagai berikut cara kerjanya.......
 
-```c#
+```csharp
 public string usdToIdr(string nominal)
         {
             var nominalDouble = Convert.ToDouble(nominal);
