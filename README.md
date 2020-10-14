@@ -12,21 +12,21 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar k
 
 Diawali dari method 'MainWindow' pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
 
-'''c#
+```c#
 public MainWindow()
         {
             InitializeComponent();
             currency = new CurrencyController();
         }
-'''
+```
 
 logika perhitungan terdapat pada class 'CurrencyController.cs' sebagai berikut cara kerjanya.......
 
-'''c#
+```c#
 public string usdToIdr(string nominal)
         {
             var nominalDouble = Convert.ToDouble(nominal);
             var result = nominalDouble * 15000;
             return Convert.ToString(result);
         }
-'''
+```
