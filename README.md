@@ -10,7 +10,7 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar k
 
 ## How Does it Works?
 
-Diawali dari method 'MainWindow' pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
+Diawali dari method `MainWindow` pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
 
 ```csharp
 public MainWindow()
@@ -20,7 +20,7 @@ public MainWindow()
         }
 ```
 
-logika perhitungan terdapat pada class 'CurrencyController.cs' sebagai berikut cara kerjanya.......
+logika perhitungan terdapat pada class `CurrencyController.cs` sebagai berikut cara kerjanya.......
 
 ```csharp
 public string usdToIdr(string nominal)
