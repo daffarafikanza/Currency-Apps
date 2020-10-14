@@ -4,9 +4,9 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar k
 
 ## Scope & Functionalities
 
-. User bisa memasukkan angka yang mereka inginkan
-. User dapat menyentuh tombol hitung
-. User akan mendapatkan info "INVALID" jika yang dimasukkan selain angka
+` User bisa memasukkan angka yang mereka inginkan
+` User dapat menyentuh tombol hitung
+` User akan mendapatkan info "INVALID" jika yang dimasukkan selain angka
 
 ## How Does it Works?
 
