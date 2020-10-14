@@ -8,7 +8,7 @@ Aplikasi sederhana ini mencakup fungsi perhitungan nilai mata uang dari dollar k
 . User dapat menyentuh tombol hitung
 . User akan mendapatkan info "INVALID" jika yang dimasukkan selain angka
 
-## How Does it Works"?
+## How Does it Works?
 
 Diawali dari method 'MainWindow' pada class MainWindow.xaml.cs, kita mendeklarasikan menjadi......
 
